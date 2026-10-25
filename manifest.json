@@ -1,0 +1,12 @@
+    {
+      "serverName": "Gargboid PZ Server",
+      "updated": "2026-10-24T00:00:00Z",
+      "gameBuild": "42",
+      "mods": [
+        {
+          "modId": "exampleMod",
+          "workshopId": "1234567890",
+          "name": "Example Build 42 Mod"
+        }
+      ]
+    }
