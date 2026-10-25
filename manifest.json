@@ -1,6 +1,6 @@
 {
   "serverName": "My PZ Server",
-  "updated": "2026-10-25T01:44:43Z",
+  "updated": "2026-10-25T22:22:35Z",
   "gameBuild": "42",
   "mods": [
     {
@@ -99,11 +99,6 @@
       "name": "Project Viewpoint: True Weathers - Gameplay"
     },
     {
-      "modId": "ViewpointConstruction",
-      "workshopId": "3815631078",
-      "name": "Project Viewpoint: Visible Construction"
-    },
-    {
       "modId": "SMB_steps",
       "workshopId": "3813489363",
       "name": "SMB steps"
@@ -117,11 +112,6 @@
       "modId": "UH-1BHelicopter",
       "workshopId": "3409723807",
       "name": "UH-1B Helicopter"
-    },
-    {
-      "modId": "ViewpointFences3D",
-      "workshopId": "3814486926",
-      "name": "Viewpoint - 3D Fences"
     },
     {
       "modId": "ViewpointAdvancedThrowables",
@@ -289,16 +279,6 @@
       "name": "Viewpoint Advanced Movement (server part)"
     },
     {
-      "modId": "GridRVHost",
-      "workshopId": "3820158673",
-      "name": "Grid RV Host backend (Legacy)"
-    },
-    {
-      "modId": "GridRV",
-      "workshopId": "3820158673",
-      "name": "Nomad Grid RV (Legacy)"
-    },
-    {
       "modId": "RealisticDoorImpacts",
       "workshopId": "3820462383",
       "name": "Project Viewpoint - Actual Door Rattling"
@@ -342,11 +322,6 @@
       "modId": "ScarSystem",
       "workshopId": "3750907049",
       "name": "ScarSystem"
-    },
-    {
-      "modId": "DaleChieftainRV",
-      "workshopId": "3820158673",
-      "name": "Dale's Chieftain RV (Legacy)"
     },
     {
       "modId": "ViewpointFPS",
@@ -514,11 +489,6 @@
       "name": "Tactical Hold Complete [Fork]"
     },
     {
-      "modId": "TheOnlyCurePlus",
-      "workshopId": "3818733381",
-      "name": "The Only Cure+ (Field Surgery)"
-    },
-    {
       "modId": "thisIsMe-Traits",
       "workshopId": "3806020504",
       "name": "This Is Me - More Character Traits"
@@ -607,6 +577,556 @@
       "modId": "XensEnhancedGUI",
       "workshopId": "3819012597",
       "name": "Xen's Enhanced GUI"
+    },
+    {
+      "modId": "DeadWorksVehicleFramework",
+      "workshopId": "3825724093",
+      "name": "DeadWorks Vehicle Framework"
+    },
+    {
+      "modId": "DeadWorksNomadRV",
+      "workshopId": "3820158673",
+      "name": "Nomad RV"
+    },
+    {
+      "modId": "DeadWorksDaleRV",
+      "workshopId": "3820158673",
+      "name": "Dale's Chieftain RV"
+    },
+    {
+      "modId": "GridVans",
+      "workshopId": "3821174725",
+      "name": "Viewpoint - 3D RV Van"
+    },
+    {
+      "modId": "GridVansHost",
+      "workshopId": "3821174725",
+      "name": "3D Vans Host backend"
+    },
+    {
+      "modId": "RepairAnyClothes",
+      "workshopId": "2142622992",
+      "name": "Repair Any Clothes"
+    },
+    {
+      "modId": "modoptions",
+      "workshopId": "2169435993",
+      "name": "Mod Options"
+    },
+    {
+      "modId": "AuthenticAnimations",
+      "workshopId": "2207282444",
+      "name": "AuthenticAnimations"
+    },
+    {
+      "modId": "AuthenticZLite",
+      "workshopId": "2335368829",
+      "name": "Authentic Z - Lite"
+    },
+    {
+      "modId": "FH",
+      "workshopId": "2447729538",
+      "name": "Fluffy Hair"
+    },
+    {
+      "modId": "P4HasBeenRead",
+      "workshopId": "2544353492",
+      "name": "Has Been Read"
+    },
+    {
+      "modId": "Improved_Fire_And_Smoke_Ffects",
+      "workshopId": "2645975408",
+      "name": "Improved Fire & Smoke Effects"
+    },
+    {
+      "modId": "RebalancedPropMoving",
+      "workshopId": "2699828474",
+      "name": "Rebalanced Prop Moving"
+    },
+    {
+      "modId": "BoredomTweaks",
+      "workshopId": "2725360009",
+      "name": "Boredom Tweaks"
+    },
+    {
+      "modId": "YouDriveISleep",
+      "workshopId": "2830570280",
+      "name": "You Drive I Sleep"
+    },
+    {
+      "modId": "errorMagnifier",
+      "workshopId": "2896041179",
+      "name": "errorMagnifier"
+    },
+    {
+      "modId": "ComfySleeping",
+      "workshopId": "2998737588",
+      "name": "ComfySleeping"
+    },
+    {
+      "modId": "KAMER_WallHealth",
+      "workshopId": "3002666175",
+      "name": "[K] Show Wall Health"
+    },
+    {
+      "modId": "KAMER_RepairWall",
+      "workshopId": "3006882690",
+      "name": "[K] Repair Wall"
+    },
+    {
+      "modId": "FunctionalAppliances2",
+      "workshopId": "3042138819",
+      "name": "Functional Appliances 2"
+    },
+    {
+      "modId": "ChuckleberryFinnAlertSystem",
+      "workshopId": "3077900375",
+      "name": "Mod Update and Alert System"
+    },
+    {
+      "modId": "AatheomEMVFSM",
+      "workshopId": "3322066592",
+      "name": "Every Missing Vanilla Food Static Model"
+    },
+    {
+      "modId": "StarlitLibrary",
+      "workshopId": "3378285185",
+      "name": "Starlit Library"
+    },
+    {
+      "modId": "AutoMechanics",
+      "workshopId": "3387539308",
+      "name": "Auto Mechanics"
+    },
+    {
+      "modId": "TchernoLib",
+      "workshopId": "3389605231",
+      "name": "TchernoLib"
+    },
+    {
+      "modId": "ExerciseWithGearAgain",
+      "workshopId": "3390760692",
+      "name": "Exercise With Gear"
+    },
+    {
+      "modId": "ExerciseWithCorpses",
+      "workshopId": "3404074048",
+      "name": "ExerciseWithCorpses"
+    },
+    {
+      "modId": "SapphCooking_B42",
+      "workshopId": "3409143790",
+      "name": "Sapph's Cooking"
+    },
+    {
+      "modId": "TrueSmoking",
+      "workshopId": "3423984426",
+      "name": "True Smoking"
+    },
+    {
+      "modId": "FunctionalGutters",
+      "workshopId": "3439305933",
+      "name": "[B42] Functional Gutters"
+    },
+    {
+      "modId": "FunctionalCarLift",
+      "workshopId": "3464551542",
+      "name": "Functional Car Lift"
+    },
+    {
+      "modId": "FeedThatAnimalMP",
+      "workshopId": "3487450124",
+      "name": "Feed That Animal In Multiplayer!"
+    },
+    {
+      "modId": "Project_Cook",
+      "workshopId": "3490188370",
+      "name": "Project Cook"
+    },
+    {
+      "modId": "Project_Cook_Pixel_Icon_Pack",
+      "workshopId": "3490188370",
+      "name": "Project Cook Pixel Icon Pack"
+    },
+    {
+      "modId": "SomewhatTraitsCore",
+      "workshopId": "3498347699",
+      "name": "Somewhat Traits Core"
+    },
+    {
+      "modId": "SomewhatTraitsSkills",
+      "workshopId": "3498347699",
+      "name": "Somewhat Traits Skills"
+    },
+    {
+      "modId": "SomewhatTraits",
+      "workshopId": "3498347699",
+      "name": "Somewhat Traits"
+    },
+    {
+      "modId": "PlaceAnywhereMod",
+      "workshopId": "3613917826",
+      "name": "PlaceAnywhereMod"
+    },
+    {
+      "modId": "FixedLightOnBeltAF",
+      "workshopId": "3625933422",
+      "name": "[B42] Simple Flashlight on Belt! (Angled Flashlight fix)"
+    },
+    {
+      "modId": "TrueActionsDancing",
+      "workshopId": "3650071729",
+      "name": "True Actions Dancing"
+    },
+    {
+      "modId": "SaucedCarts",
+      "workshopId": "3651954650",
+      "name": "SaucedCarts - Pushable Carts"
+    },
+    {
+      "modId": "LeanAndLie",
+      "workshopId": "3652012357",
+      "name": "Lean & Lie"
+    },
+    {
+      "modId": "MinidoracatSafeSpawn",
+      "workshopId": "3653490664",
+      "name": "Minidoracat Safe Spawn"
+    },
+    {
+      "modId": "ServerWorkshopModAutoRestartB42",
+      "workshopId": "3659447892",
+      "name": "Server Workshop Mod Update Checker & Auto-Restart (B42) 42.13+ MP HDRcade"
+    },
+    {
+      "modId": "ItemRarityUI",
+      "workshopId": "3662387304",
+      "name": "Item Rarity UI"
+    },
+    {
+      "modId": "SkullysContainerRebalanced",
+      "workshopId": "3698401476",
+      "name": "Skully's Rebalanced Containers"
+    },
+    {
+      "modId": "SkullysDufflesAndRigs",
+      "workshopId": "3698401476",
+      "name": "Skully's Duffelbags and Rigs"
+    },
+    {
+      "modId": "SkullysItemRebalance",
+      "workshopId": "3698401476",
+      "name": "Skully's Item Rebalance"
+    },
+    {
+      "modId": "Navigator",
+      "workshopId": "3708816224",
+      "name": "Navigator"
+    },
+    {
+      "modId": "NC_NaturesCall",
+      "workshopId": "3709126801",
+      "name": "Nature's Call"
+    },
+    {
+      "modId": "BuildableGarageDoors",
+      "workshopId": "3727753275",
+      "name": "[B42] Buildable Garage Doors"
+    },
+    {
+      "modId": "SeedSeasonIndicator",
+      "workshopId": "3734639991",
+      "name": "Seed Season Indicator"
+    },
+    {
+      "modId": "RetroDashboard",
+      "workshopId": "3739256322",
+      "name": "Banger's Retro Car Dashboard"
+    },
+    {
+      "modId": "CVI",
+      "workshopId": "3749026793",
+      "name": "Carry Visible Items"
+    },
+    {
+      "modId": "PAR",
+      "workshopId": "3749848348",
+      "name": "Plysken Attachments Reborn"
+    },
+    {
+      "modId": "VB_CommonSense",
+      "workshopId": "3750253491",
+      "name": "Common Sense"
+    },
+    {
+      "modId": "CompanionDogsRottweiler",
+      "workshopId": "3762296152",
+      "name": "CD: Rottweiler"
+    },
+    {
+      "modId": "CraftingSkillsPractice",
+      "workshopId": "3765795716",
+      "name": "Crafting Skills Practice"
+    },
+    {
+      "modId": "PZ_Map",
+      "workshopId": "3770149036",
+      "name": "PZ Map"
+    },
+    {
+      "modId": "alicesWeaponSling",
+      "workshopId": "3775549570",
+      "name": "Alice's Weapon Sling"
+    },
+    {
+      "modId": "alicesWeaponSlingRadialMenu",
+      "workshopId": "3775549570",
+      "name": "Alice's Weapon Sling - Radial Menu [ADDON]"
+    },
+    {
+      "modId": "SkullysZombieCollision",
+      "workshopId": "3778511497",
+      "name": "Skully's Zombie Collision"
+    },
+    {
+      "modId": "ImprovisedSilencers",
+      "workshopId": "3779164273",
+      "name": "Improvised Silencers (Build 42.20 Compatibility)"
+    },
+    {
+      "modId": "LGExtendedPlumbing",
+      "workshopId": "3779561845",
+      "name": "LG Extended Plumbing"
+    },
+    {
+      "modId": "MultiPurposeItemRack",
+      "workshopId": "3780806520",
+      "name": "Todds mods: Multi purpose item rack"
+    },
+    {
+      "modId": "CarRoofFix",
+      "workshopId": "3781616141",
+      "name": "Vehicle Aim Roof Fix"
+    },
+    {
+      "modId": "NicksInventorySelectionFix",
+      "workshopId": "3782920935",
+      "name": "Nick's Inventory Selection Fix"
+    },
+    {
+      "modId": "NeatLockpicking",
+      "workshopId": "3783535220",
+      "name": "Neat Lockpicking"
+    },
+    {
+      "modId": "MapCenter",
+      "workshopId": "3790912405",
+      "name": "Center Map"
+    },
+    {
+      "modId": "IAmBruceLeeNow",
+      "workshopId": "3791279212",
+      "name": "I Am Bruce Lee Now"
+    },
+    {
+      "modId": "ProjectWriting",
+      "workshopId": "3796402502",
+      "name": "Project Writing"
+    },
+    {
+      "modId": "KnoxAquarium",
+      "workshopId": "3797356103",
+      "name": "Knox Aquarium (Beta)"
+    },
+    {
+      "modId": "PropaneExplosion",
+      "workshopId": "3799731329",
+      "name": "Propane Explosion"
+    },
+    {
+      "modId": "TrueSwimming",
+      "workshopId": "3802372726",
+      "name": "True Swimming"
+    },
+    {
+      "modId": "CurlUp",
+      "workshopId": "3805221815",
+      "name": "Curl Up"
+    },
+    {
+      "modId": "CasualtiesUndead",
+      "workshopId": "3805748433",
+      "name": "Casualties Undead"
+    },
+    {
+      "modId": "VisibleVehicleCouplingB42",
+      "workshopId": "3807182783",
+      "name": "Visible Vehicle Coupling (VVC)"
+    },
+    {
+      "modId": "ImmersiveSnow",
+      "workshopId": "3810071828",
+      "name": "Immersive Snow"
+    },
+    {
+      "modId": "Construction1PViewpoint",
+      "workshopId": "3812312558",
+      "name": "Construction 1P Viewpoint"
+    },
+    {
+      "modId": "ViewpointCropVisibility",
+      "workshopId": "3812659173",
+      "name": "Viewpoint - Crop Visibility Fix"
+    },
+    {
+      "modId": "BlackoutDrunk",
+      "workshopId": "3812698874",
+      "name": "Blackout Drunk"
+    },
+    {
+      "modId": "ViewpointFences",
+      "workshopId": "3813723091",
+      "name": "Viewpoint 3D Fences and Gates - Beta"
+    },
+    {
+      "modId": "CameraTweaksViewpoint",
+      "workshopId": "3814742214",
+      "name": "Camera Tweaks for Viewpoint"
+    },
+    {
+      "modId": "BulletImpactMarks",
+      "workshopId": "3814993552",
+      "name": "Bullet Holes"
+    },
+    {
+      "modId": "ViewpointForaging",
+      "workshopId": "3814994364",
+      "name": "Viewpoint Foraging"
+    },
+    {
+      "modId": "CDAJCompatPatch",
+      "workshopId": "3815176060",
+      "name": "A-Life Jeems and Companion Dogs Compatibility Patch"
+    },
+    {
+      "modId": "ViewpointBunkerFix",
+      "workshopId": "3815531837",
+      "name": "Viewpoint Bunker Fix"
+    },
+    {
+      "modId": "ALifeViewpointCompat",
+      "workshopId": "3815721297",
+      "name": "A-Life x Viewpoint Compat"
+    },
+    {
+      "modId": "KnoxMobile",
+      "workshopId": "3818422092",
+      "name": "Knox Mobile"
+    },
+    {
+      "modId": "ViewpointBinoculars",
+      "workshopId": "3818585720",
+      "name": "Viewpoint Binoculars"
+    },
+    {
+      "modId": "ViewpointAdvancedFlashlight",
+      "workshopId": "3818857682",
+      "name": "Viewpoint Advanced Flashlight"
+    },
+    {
+      "modId": "ViewpointOfMarz",
+      "workshopId": "3819820321",
+      "name": "Viewpoint of Marz"
+    },
+    {
+      "modId": "ViewpointHorseSolid",
+      "workshopId": "3820421584",
+      "name": "Project Viewpoint - Solid Horses"
+    },
+    {
+      "modId": "ViewpointSizeMatters",
+      "workshopId": "3821185516",
+      "name": "Viewpoint Size Matters"
+    },
+    {
+      "modId": "ViewpointWorkingTVs",
+      "workshopId": "3821610732",
+      "name": "Viewpoint - 3D Working TVs & Radios"
+    },
+    {
+      "modId": "MoreBadgesB42",
+      "workshopId": "3821955789",
+      "name": "Viewpoint Wearable Badges [B42]"
+    },
+    {
+      "modId": "AnimationTweaks",
+      "workshopId": "3822203889",
+      "name": "mathew1521's Animation Tweaks"
+    },
+    {
+      "modId": "MultiPurposeItemRackViewpointCompat",
+      "workshopId": "3822607546",
+      "name": "Todds mods: Multi purpose item rack Project viewpoint compatibility mod"
+    },
+    {
+      "modId": "CarBatteryChargerModel",
+      "workshopId": "3822775022",
+      "name": "Car Battery Charger 3D Model"
+    },
+    {
+      "modId": "CarBatteryChargerModel_Viewpoint",
+      "workshopId": "3822775022",
+      "name": "Car Battery Charger 3D Model - Viewpoint Patch"
+    },
+    {
+      "modId": "RealisticSemiAuto",
+      "workshopId": "3823282005",
+      "name": "Realistic Semi-Auto"
+    },
+    {
+      "modId": "LevelFurniture",
+      "workshopId": "3823984682",
+      "name": "Level Furniture (Viewpoint)"
+    },
+    {
+      "modId": "VVCViewpoint",
+      "workshopId": "3824354252",
+      "name": "Visible Vehicle Coupling - Viewpoint Addon"
+    },
+    {
+      "modId": "BagAndBind",
+      "workshopId": "3825634153",
+      "name": "Bag & Bind"
+    },
+    {
+      "modId": "Railings3D",
+      "workshopId": "3825682908",
+      "name": "Railings 3D (Viewpoint)"
+    },
+    {
+      "modId": "ViewpointRocks3D",
+      "workshopId": "3825760974",
+      "name": "Viewpoint - 3D Rocks"
+    },
+    {
+      "modId": "ViewpointInteriors",
+      "workshopId": "3826550325",
+      "name": "Viewpoint Vehicle Interiors"
+    },
+    {
+      "modId": "SenatorsDeadInk",
+      "workshopId": "3826564551",
+      "name": "Senators Dead Ink"
+    },
+    {
+      "modId": "CityscapeViewpointMaps",
+      "workshopId": "3826608236",
+      "name": "Cityscape Viewpoint Maps"
+    },
+    {
+      "modId": "PlayerBulletControl",
+      "workshopId": "3826617690",
+      "name": "Player Bullet Control"
     }
   ]
 }
