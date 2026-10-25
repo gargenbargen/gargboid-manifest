@@ -1,12 +1,612 @@
+{
+  "serverName": "My PZ Server",
+  "updated": "2026-10-25T01:44:43Z",
+  "gameBuild": "42",
+  "mods": [
     {
-      "serverName": "Gargboid PZ Server",
-      "updated": "2026-10-24T00:00:00Z",
-      "gameBuild": "42",
-      "mods": [
-        {
-          "modId": "exampleMod",
-          "workshopId": "1234567890",
-          "name": "Example Build 42 Mod"
-        }
-      ]
+      "modId": "ZombieBuddy",
+      "workshopId": "3619862853",
+      "name": "ZombieBuddy"
+    },
+    {
+      "modId": "Viewpoint",
+      "workshopId": "3809306528",
+      "name": "Viewpoint"
+    },
+    {
+      "modId": "ViewpointRoofs",
+      "workshopId": "3817294484",
+      "name": "Viewpoint - Roofs (WIP)"
+    },
+    {
+      "modId": "DGVCurtains",
+      "workshopId": "3818873810",
+      "name": "3D Curtains & Blinds for Viewpoint [B42] byDGV"
+    },
+    {
+      "modId": "HBVCEFb42",
+      "workshopId": "3610677934",
+      "name": "Hot Brass - Visible Casing Ejection Framework [B42.15]"
+    },
+    {
+      "modId": "DGVPosters",
+      "workshopId": "3818605173",
+      "name": "Any Wall Posters 3D [B42] byDGV"
+    },
+    {
+      "modId": "PZVoxelStudioViewpoint",
+      "workshopId": "3810302175",
+      "name": "6277 3D models for Viewpoint [sour_kisel]"
+    },
+    {
+      "modId": "AviationCore",
+      "workshopId": "3783444342",
+      "name": "Aviation Core"
+    },
+    {
+      "modId": "ViewpointBloodFX",
+      "workshopId": "3811472160",
+      "name": "Blood FX for Viewpoint"
+    },
+    {
+      "modId": "Horse",
+      "workshopId": "3661336777",
+      "name": "Horse Mod"
+    },
+    {
+      "modId": "HorsePatch3d",
+      "workshopId": "3813760573",
+      "name": "HorseMod + Viewpoint 3D Patch (Controls)"
+    },
+    {
+      "modId": "NoLighterNeeded",
+      "workshopId": "2714198296",
+      "name": "I Don't Need A Lighter"
+    },
+    {
+      "modId": "stanks_suicide",
+      "workshopId": "3426448380",
+      "name": "Immersive Suicide"
+    },
+    {
+      "modId": "ProjectALifeNPCs",
+      "workshopId": "3803984183",
+      "name": "Project A-Life [ALIFE NPCS]"
+    },
+    {
+      "modId": "ProjectViewpointShelves",
+      "workshopId": "3815931973",
+      "name": "Project Viewpoint: KK's Shelves in 3D"
+    },
+    {
+      "modId": "ProjectViewpointADS",
+      "workshopId": "3812612054",
+      "name": "Project Viewpoint: Recoil & ADS (Viewpoint add-on)"
+    },
+    {
+      "modId": "ProjectViewpointNearVegetation",
+      "workshopId": "3813172420",
+      "name": "Project Viewpoint: TREE in 3D"
+    },
+    {
+      "modId": "ViewpointTrueWeathers",
+      "workshopId": "3813908957",
+      "name": "Project Viewpoint: True Weathers & Lighting"
+    },
+    {
+      "modId": "ViewpointTrueWeathersGameplay",
+      "workshopId": "3813908957",
+      "name": "Project Viewpoint: True Weathers - Gameplay"
+    },
+    {
+      "modId": "ViewpointConstruction",
+      "workshopId": "3815631078",
+      "name": "Project Viewpoint: Visible Construction"
+    },
+    {
+      "modId": "SMB_steps",
+      "workshopId": "3813489363",
+      "name": "SMB steps"
+    },
+    {
+      "modId": "LAWLYPOPS_TPMSINDICATOR",
+      "workshopId": "3381815115",
+      "name": "TPMS Mod"
+    },
+    {
+      "modId": "UH-1BHelicopter",
+      "workshopId": "3409723807",
+      "name": "UH-1B Helicopter"
+    },
+    {
+      "modId": "ViewpointFences3D",
+      "workshopId": "3814486926",
+      "name": "Viewpoint - 3D Fences"
+    },
+    {
+      "modId": "ViewpointAdvancedThrowables",
+      "workshopId": "3813194971",
+      "name": "Viewpoint - Advanced Throwables"
+    },
+    {
+      "modId": "ViewpointBarricade",
+      "workshopId": "3815033191",
+      "name": "Viewpoint - Barricade Fix"
+    },
+    {
+      "modId": "ViewpointDoor",
+      "workshopId": "3812151347",
+      "name": "Viewpoint - Door Fix"
+    },
+    {
+      "modId": "ViewpointHeli",
+      "workshopId": "3812896812",
+      "name": "Viewpoint - Helicopter Fix"
+    },
+    {
+      "modId": "BasileDoors3D",
+      "workshopId": "3818859807",
+      "name": "Project Viewpoint - 3D Doors, Gates & Garages"
+    },
+    {
+      "modId": "ViewpointLight",
+      "workshopId": "3811344119",
+      "name": "Viewpoint - Light Fix"
+    },
+    {
+      "modId": "ViewpointPlace",
+      "workshopId": "3812518796",
+      "name": "Viewpoint - Place Items"
+    },
+    {
+      "modId": "ViewpointSurface",
+      "workshopId": "3814398576",
+      "name": "Viewpoint - Surface Fix"
+    },
+    {
+      "modId": "FishingView",
+      "workshopId": "3814560827",
+      "name": "Viewpoint Fishing"
+    },
+    {
+      "modId": "ViewpointImmersiveMap",
+      "workshopId": "3815544725",
+      "name": "Viewpoint Immersive Map"
+    },
+    {
+      "modId": "ViewpointTrueBallistics",
+      "workshopId": "3812864848",
+      "name": "Viewpoint True Ballistics"
+    },
+    {
+      "modId": "ViewpointLivingProps",
+      "workshopId": "3816442251",
+      "name": "Viewpoint: Living Props"
+    },
+    {
+      "modId": "PoolPit",
+      "workshopId": "3816856700",
+      "name": "Yeah it's water bitch"
+    },
+    {
+      "modId": "ViewpointRollingHills",
+      "workshopId": "3815630947",
+      "name": "Viewpoint Rolling Hills"
+    },
+    {
+      "modId": "dustinguished_bolt_cutters",
+      "workshopId": "3671176591",
+      "name": "dustinguished bolt cutters"
+    },
+    {
+      "modId": "Viewpoint3DTracerFix",
+      "workshopId": "3811640626",
+      "name": "Viewpoint3DTracerFix"
+    },
+    {
+      "modId": "CompanionDogs",
+      "workshopId": "3740052292",
+      "name": "Companion Dogs [ALPHA]"
+    },
+    {
+      "modId": "ComputerModkum",
+      "workshopId": "3725497089",
+      "name": "Computer Mod"
+    },
+    {
+      "modId": "ComputerModLaptop",
+      "workshopId": "3798992436",
+      "name": "Computer Mod: Laptop Addon"
+    },
+    {
+      "modId": "SXM_Intimacy",
+      "workshopId": "3814771292",
+      "name": "Crackpocalypse"
+    },
+    {
+      "modId": "RollingHillsPhysics",
+      "workshopId": "3817555882",
+      "name": "Rolling Hills Physics"
+    },
+    {
+      "modId": "GrassierGrassViewpoint",
+      "workshopId": "3818853354",
+      "name": "Grassier Grass (Viewpoint)"
+    },
+    {
+      "modId": "KnoxWildlife",
+      "workshopId": "3818096743",
+      "name": "Knox Wildlife"
+    },
+    {
+      "modId": "LifestyleHobbies",
+      "workshopId": "3403870858",
+      "name": "Lifestyle: Hobbies"
+    },
+    {
+      "modId": "DeadAir",
+      "workshopId": "3816180767",
+      "name": "Musician"
+    },
+    {
+      "modId": "NepMoreOnFloor",
+      "workshopId": "3457064550",
+      "name": "Nepenthe's More On The Floor"
+    },
+    {
+      "modId": "OdysseyOnPiano",
+      "workshopId": "3595585700",
+      "name": "Odyssey On Piano [A Lifestyle Addon]"
+    },
+    {
+      "modId": "ProjectALifeJimmy",
+      "workshopId": "3806944055",
+      "name": "Project A-Life - Jeem Extension"
+    },
+    {
+      "modId": "RainCleansBlood",
+      "workshopId": "2956146279",
+      "name": "Rain Cleans Blood"
+    },
+    {
+      "modId": "RaxCheatMenu",
+      "workshopId": "3815818643",
+      "name": "Rax's Cheat Menu 2.0 [B42.21]"
+    },
+    {
+      "modId": "Redraw",
+      "workshopId": "3818548144",
+      "name": "Redraw (Viewpoint shader pack)"
+    },
+    {
+      "modId": "ViewpointAdvancedMovement",
+      "workshopId": "3812702301",
+      "name": "Viewpoint Advanced Movement"
+    },
+    {
+      "modId": "ViewpointAdvancedMovementServer",
+      "workshopId": "3812702301",
+      "name": "Viewpoint Advanced Movement (server part)"
+    },
+    {
+      "modId": "GridRVHost",
+      "workshopId": "3820158673",
+      "name": "Grid RV Host backend (Legacy)"
+    },
+    {
+      "modId": "GridRV",
+      "workshopId": "3820158673",
+      "name": "Nomad Grid RV (Legacy)"
+    },
+    {
+      "modId": "RealisticDoorImpacts",
+      "workshopId": "3820462383",
+      "name": "Project Viewpoint - Actual Door Rattling"
+    },
+    {
+      "modId": "ViewpointFreeAim",
+      "workshopId": "3820063546",
+      "name": "Viewpoint Free Aim"
+    },
+    {
+      "modId": "HeliEvent",
+      "workshopId": "3818359767",
+      "name": "3D Helicopter Event - Project Viewpoint"
+    },
+    {
+      "modId": "AttachmentsUI",
+      "workshopId": "3816324722",
+      "name": "Attachments UI"
+    },
+    {
+      "modId": "BetterFireExtinguishers",
+      "workshopId": "3795847162",
+      "name": "Better Fire Extinguishers"
+    },
+    {
+      "modId": "ItIsOfInterestToMe",
+      "workshopId": "3796373365",
+      "name": "It is of interest to me!"
+    },
+    {
+      "modId": "PZ_Pulse",
+      "workshopId": "3753700423",
+      "name": "PZ Pulse"
+    },
+    {
+      "modId": "ProjectArcade",
+      "workshopId": "3645980077",
+      "name": "ProjectArcade"
+    },
+    {
+      "modId": "ScarSystem",
+      "workshopId": "3750907049",
+      "name": "ScarSystem"
+    },
+    {
+      "modId": "DaleChieftainRV",
+      "workshopId": "3820158673",
+      "name": "Dale's Chieftain RV (Legacy)"
+    },
+    {
+      "modId": "ViewpointFPS",
+      "workshopId": "3820156996",
+      "name": "Viewpoint FPS Optimization"
+    },
+    {
+      "modId": "Tuna_GunRacks",
+      "workshopId": "3784677588",
+      "name": "3D Gun Racks"
+    },
+    {
+      "modId": "SWMG",
+      "workshopId": "3722064198",
+      "name": "Gunworks-gang"
+    },
+    {
+      "modId": "GunsOfMarz",
+      "workshopId": "3722134990",
+      "name": "Guns of Marz"
+    },
+    {
+      "modId": "ALifeGunsOfMarz",
+      "workshopId": "3810988454",
+      "name": "A-Life - Guns of Marz Loadouts"
+    },
+    {
+      "modId": "ALifeRelations",
+      "workshopId": "3811696048",
+      "name": "A-Life Faction Relations"
+    },
+    {
+      "modId": "ALifeKnoxFractured",
+      "workshopId": "3813871509",
+      "name": "A-Life: Factions Expanded"
+    },
+    {
+      "modId": "AliveJeemDynamicWorld",
+      "workshopId": "3821393562",
+      "name": "A-Life: Living Factions"
+    },
+    {
+      "modId": "ALifeSurvivorContracts",
+      "workshopId": "3813848771",
+      "name": "A-Life: Survivor Contracts"
+    },
+    {
+      "modId": "CompanionCat",
+      "workshopId": "3791294616",
+      "name": "CD: Cats"
+    },
+    {
+      "modId": "CompanionDogsPug",
+      "workshopId": "3787202559",
+      "name": "CD: Pug"
+    },
+    {
+      "modId": "CHStatusHUD",
+      "workshopId": "3776182375",
+      "name": "CH Status HUD"
+    },
+    {
+      "modId": "SmartTextureLeakFix",
+      "workshopId": "3821525282",
+      "name": "Character Texture VRAM Leak Fix [ZombieBuddy]"
+    },
+    {
+      "modId": "CryOfFearMonsters",
+      "workshopId": "3813406470",
+      "name": "Cry of Fear Monsters"
+    },
+    {
+      "modId": "CyesPushDoors",
+      "workshopId": "3780683663",
+      "name": "Cye's Push Doors!"
+    },
+    {
+      "modId": "GoMMaxAmmo",
+      "workshopId": "3773608503",
+      "name": "GoM Max Ammo"
+    },
+    {
+      "modId": "PeixesBRExpansion",
+      "workshopId": "3784235810",
+      "name": "Fishing Expansion BR [B42]"
+    },
+    {
+      "modId": "GoM556Buff",
+      "workshopId": "3806612200",
+      "name": "Guns Of Marz 5.56 Buff"
+    },
+    {
+      "modId": "HBAmmoCraft",
+      "workshopId": "3610677934",
+      "name": "Hot Brass - Ammo Crafting"
+    },
+    {
+      "modId": "HBTacReload",
+      "workshopId": "3610677934",
+      "name": "Hot Brass - Tactical Reload"
+    },
+    {
+      "modId": "ImmersiveDriving",
+      "workshopId": "3817413313",
+      "name": "Immersive Driving"
+    },
+    {
+      "modId": "MoodleFramework",
+      "workshopId": "3396446795",
+      "name": "Moodle Framework"
+    },
+    {
+      "modId": "NeatUI_Framework",
+      "workshopId": "3508537032",
+      "name": "NeatUI_Framework"
+    },
+    {
+      "modId": "NeatUI_Hairstyler",
+      "workshopId": "3760534563",
+      "name": "NeatUI Hairstyler"
+    },
+    {
+      "modId": "PlayerGreetings",
+      "workshopId": "3820590495",
+      "name": "PZ Relationship"
+    },
+    {
+      "modId": "playable_pool",
+      "workshopId": "3716934959",
+      "name": "Playable Minigames (Previously Playable Pool)"
+    },
+    {
+      "modId": "PlayableTennis",
+      "workshopId": "3815419225",
+      "name": "Playable Tennis"
+    },
+    {
+      "modId": "ProperRagdolls",
+      "workshopId": "3821280085",
+      "name": "Proper Ragdolls"
+    },
+    {
+      "modId": "KafeenasCannabisB42",
+      "workshopId": "3819427134",
+      "name": "Schedule 1"
+    },
+    {
+      "modId": "KafeenasCannabisViewpoint",
+      "workshopId": "3819427134",
+      "name": "Schedule 1 Viewpoint Compatibility"
+    },
+    {
+      "modId": "SilentHillMonsters",
+      "workshopId": "3821752171",
+      "name": "Silent Hill Monsters"
+    },
+    {
+      "modId": "SurvivorBriefing",
+      "workshopId": "3808944882",
+      "name": "Survivor Briefing"
+    },
+    {
+      "modId": "TacHoldFork",
+      "workshopId": "3788899474",
+      "name": "Tactical Hold Complete [Fork]"
+    },
+    {
+      "modId": "TheOnlyCurePlus",
+      "workshopId": "3818733381",
+      "name": "The Only Cure+ (Field Surgery)"
+    },
+    {
+      "modId": "thisIsMe-Traits",
+      "workshopId": "3806020504",
+      "name": "This Is Me - More Character Traits"
+    },
+    {
+      "modId": "thisIsMe-TraitsMP",
+      "workshopId": "3806020504",
+      "name": "This Is Me - More Character Traits (Multiplayer)"
+    },
+    {
+      "modId": "VanillaCameraExpansion",
+      "workshopId": "3817699144",
+      "name": "Vanilla Camera Expansion"
+    },
+    {
+      "modId": "VehicleArmorCrafting",
+      "workshopId": "3800858172",
+      "name": "Vehicle Armor Crafting [B42]"
+    },
+    {
+      "modId": "ViewpointRightClick",
+      "workshopId": "3819018807",
+      "name": "Viewpoint - Right Click Fix"
+    },
+    {
+      "modId": "ViewpointFixes",
+      "workshopId": "3814918750",
+      "name": "Viewpoint Fixes (Unofficial)"
+    },
+    {
+      "modId": "ViewpointBodycam",
+      "workshopId": "3818432217",
+      "name": "Viewpoint Immersive Camera Motion"
+    },
+    {
+      "modId": "ViewpointALife",
+      "workshopId": "3822854313",
+      "name": "Viewpoint x A-LIFE"
+    },
+    {
+      "modId": "VisceralViewpoint",
+      "workshopId": "3820965001",
+      "name": "Visceral (Viewpoint)"
+    },
+    {
+      "modId": "VisibleDoorDamagebyYurik",
+      "workshopId": "3799596085",
+      "name": "Visible Door Damage [B42 MP]"
+    },
+    {
+      "modId": "batman_TrainingTarget",
+      "workshopId": "3810261246",
+      "name": "batman_Training Target"
+    },
+    {
+      "modId": "CDALifePatch",
+      "workshopId": "3807738026",
+      "name": "Project A-Life & Companion Dogs Compatibility Patch"
+    },
+    {
+      "modId": "batman_TrainingTargetViewpoint",
+      "workshopId": "3810261246",
+      "name": "batman_Training Target - Viewpoint models"
+    },
+    {
+      "modId": "VRAMSteady",
+      "workshopId": "3819844505",
+      "name": "VRAM Steady"
+    },
+    {
+      "modId": "ProjectViewpointQOL",
+      "workshopId": "3811256204",
+      "name": "Project Viewpoint QOL"
+    },
+    {
+      "modId": "ViewpointImmersiveEffects",
+      "workshopId": "3812984535",
+      "name": "Viewpoint - Immersive Effects"
+    },
+    {
+      "modId": "ProjectViewpointParkour",
+      "workshopId": "3811645644",
+      "name": "Project Viewpoint Parkour"
+    },
+    {
+      "modId": "XensEnhancedGUI",
+      "workshopId": "3819012597",
+      "name": "Xen's Enhanced GUI"
     }
+  ]
+}
