@@ -1,1127 +1,1353 @@
 {
   "serverName": "My PZ Server",
-  "updated": "2026-10-26T00:18:07Z",
+  "updated": "2026-10-26T02:17:47Z",
   "gameBuild": "42",
+  "appVersion": "1.1.0",
+  "appDownloadUrl": "https://github.com/gargenbargen/gargboid-manifest/raw/refs/heads/main/Gargboid-win-x64.zip",
   "mods": [
     {
       "modId": "ZombieBuddy",
       "workshopId": "3619862853",
-      "name": "ZombieBuddy"
+      "name": "ZombieBuddy",
+      "timeUpdated": 1791033976
     },
     {
       "modId": "Viewpoint",
       "workshopId": "3809306528",
-      "name": "Viewpoint"
+      "name": "Viewpoint",
+      "timeUpdated": 1792125660
     },
     {
       "modId": "ViewpointRoofs",
       "workshopId": "3817294484",
-      "name": "Viewpoint - Roofs (WIP)"
+      "name": "Viewpoint - Roofs (WIP)",
+      "timeUpdated": 1792682682
     },
     {
       "modId": "DGVCurtains",
       "workshopId": "3818873810",
-      "name": "3D Curtains & Blinds for Viewpoint [B42] byDGV"
+      "name": "3D Curtains & Blinds for Viewpoint [B42] byDGV",
+      "timeUpdated": 1792939897
     },
     {
       "modId": "HBVCEFb42",
       "workshopId": "3610677934",
-      "name": "Hot Brass - Visible Casing Ejection Framework [B42.15]"
+      "name": "Hot Brass - Visible Casing Ejection Framework [B42.15]",
+      "timeUpdated": 1792738100
     },
     {
       "modId": "DGVPosters",
       "workshopId": "3818605173",
-      "name": "Any Wall Posters 3D [B42] byDGV"
+      "name": "Any Wall Posters 3D [B42] byDGV",
+      "timeUpdated": 1792939916
     },
     {
       "modId": "PZVoxelStudioViewpoint",
       "workshopId": "3810302175",
-      "name": "6277 3D models for Viewpoint [sour_kisel]"
+      "name": "6277 3D models for Viewpoint [sour_kisel]",
+      "timeUpdated": 1791924117
     },
     {
       "modId": "AviationCore",
       "workshopId": "3783444342",
-      "name": "Aviation Core"
+      "name": "Aviation Core",
+      "timeUpdated": 1787415996
     },
     {
       "modId": "ViewpointBloodFX",
       "workshopId": "3811472160",
-      "name": "Blood FX for Viewpoint"
+      "name": "Blood FX for Viewpoint",
+      "timeUpdated": 1791924636
     },
     {
       "modId": "Horse",
       "workshopId": "3661336777",
-      "name": "Horse Mod"
+      "name": "Horse Mod",
+      "timeUpdated": 1787504703
     },
     {
       "modId": "HorsePatch3d",
       "workshopId": "3813760573",
-      "name": "HorseMod + Viewpoint 3D Patch (Controls)"
+      "name": "HorseMod + Viewpoint 3D Patch (Controls)",
+      "timeUpdated": 1791212602
     },
     {
       "modId": "NoLighterNeeded",
       "workshopId": "2714198296",
-      "name": "I Don't Need A Lighter"
+      "name": "I Don't Need A Lighter",
+      "timeUpdated": 1791229814
     },
     {
       "modId": "stanks_suicide",
       "workshopId": "3426448380",
-      "name": "Immersive Suicide"
+      "name": "Immersive Suicide",
+      "timeUpdated": 1774718350
     },
     {
       "modId": "ProjectALifeNPCs",
       "workshopId": "3803984183",
-      "name": "Project A-Life [ALIFE NPCS]"
+      "name": "Project A-Life [ALIFE NPCS]",
+      "timeUpdated": 1792779018
     },
     {
       "modId": "ProjectViewpointShelves",
       "workshopId": "3815931973",
-      "name": "Project Viewpoint: KK's Shelves in 3D"
+      "name": "Project Viewpoint: KK's Shelves in 3D",
+      "timeUpdated": 1791993236
     },
     {
       "modId": "ProjectViewpointADS",
       "workshopId": "3812612054",
-      "name": "Project Viewpoint: Recoil & ADS (Viewpoint add-on)"
+      "name": "Project Viewpoint: Recoil & ADS (Viewpoint add-on)",
+      "timeUpdated": 1792056732
     },
     {
       "modId": "ProjectViewpointNearVegetation",
       "workshopId": "3813172420",
-      "name": "Project Viewpoint: TREE in 3D"
+      "name": "Project Viewpoint: TREE in 3D",
+      "timeUpdated": 1792519026
     },
     {
       "modId": "ViewpointTrueWeathers",
       "workshopId": "3813908957",
-      "name": "Project Viewpoint: True Weathers & Lighting"
+      "name": "Project Viewpoint: True Weathers & Lighting",
+      "timeUpdated": 1792960005
     },
     {
       "modId": "ViewpointTrueWeathersGameplay",
       "workshopId": "3813908957",
-      "name": "Project Viewpoint: True Weathers - Gameplay"
+      "name": "Project Viewpoint: True Weathers - Gameplay",
+      "timeUpdated": 1792960005
     },
     {
       "modId": "SMB_steps",
       "workshopId": "3813489363",
-      "name": "SMB steps"
+      "name": "SMB steps",
+      "timeUpdated": 1791869084
     },
     {
       "modId": "LAWLYPOPS_TPMSINDICATOR",
       "workshopId": "3381815115",
-      "name": "TPMS Mod"
+      "name": "TPMS Mod",
+      "timeUpdated": 1780361926
     },
     {
       "modId": "UH-1BHelicopter",
       "workshopId": "3409723807",
-      "name": "UH-1B Helicopter"
+      "name": "UH-1B Helicopter",
+      "timeUpdated": 1787416027
     },
     {
       "modId": "ViewpointAdvancedThrowables",
       "workshopId": "3813194971",
-      "name": "Viewpoint - Advanced Throwables"
+      "name": "Viewpoint - Advanced Throwables",
+      "timeUpdated": 1791871808
     },
     {
       "modId": "ViewpointBarricade",
       "workshopId": "3815033191",
-      "name": "Viewpoint - Barricade Fix"
+      "name": "Viewpoint - Barricade Fix",
+      "timeUpdated": 1791761450
     },
     {
       "modId": "ViewpointDoor",
       "workshopId": "3812151347",
-      "name": "Viewpoint - Door Fix"
+      "name": "Viewpoint - Door Fix",
+      "timeUpdated": 1791761069
     },
     {
       "modId": "ViewpointHeli",
       "workshopId": "3812896812",
-      "name": "Viewpoint - Helicopter Fix"
+      "name": "Viewpoint - Helicopter Fix",
+      "timeUpdated": 1791850844
     },
     {
       "modId": "BasileDoors3D",
       "workshopId": "3818859807",
-      "name": "Project Viewpoint - 3D Doors, Gates & Garages"
+      "name": "Project Viewpoint - 3D Doors, Gates & Garages",
+      "timeUpdated": 1792765288
     },
     {
       "modId": "ViewpointLight",
       "workshopId": "3811344119",
-      "name": "Viewpoint - Light Fix"
+      "name": "Viewpoint - Light Fix",
+      "timeUpdated": 1791859084
     },
     {
       "modId": "ViewpointPlace",
       "workshopId": "3812518796",
-      "name": "Viewpoint - Place Items"
+      "name": "Viewpoint - Place Items",
+      "timeUpdated": 1791474253
     },
     {
       "modId": "ViewpointSurface",
       "workshopId": "3814398576",
-      "name": "Viewpoint - Surface Fix"
+      "name": "Viewpoint - Surface Fix",
+      "timeUpdated": 1792071278
     },
     {
       "modId": "FishingView",
       "workshopId": "3814560827",
-      "name": "Viewpoint Fishing"
+      "name": "Viewpoint Fishing",
+      "timeUpdated": 1792158120
     },
     {
       "modId": "ViewpointImmersiveMap",
       "workshopId": "3815544725",
-      "name": "Viewpoint Immersive Map"
+      "name": "Viewpoint Immersive Map",
+      "timeUpdated": 1791686368
     },
     {
       "modId": "ViewpointTrueBallistics",
       "workshopId": "3812864848",
-      "name": "Viewpoint True Ballistics"
+      "name": "Viewpoint True Ballistics",
+      "timeUpdated": 1792056639
     },
     {
       "modId": "ViewpointLivingProps",
       "workshopId": "3816442251",
-      "name": "Viewpoint: Living Props"
+      "name": "Viewpoint: Living Props",
+      "timeUpdated": 1791951664
     },
     {
       "modId": "PoolPit",
       "workshopId": "3816856700",
-      "name": "Yeah it's water bitch"
+      "name": "Yeah it's water bitch",
+      "timeUpdated": 1792793729
     },
     {
       "modId": "ViewpointRollingHills",
       "workshopId": "3815630947",
-      "name": "Viewpoint Rolling Hills"
+      "name": "Viewpoint Rolling Hills",
+      "timeUpdated": 1791930369
     },
     {
       "modId": "dustinguished_bolt_cutters",
       "workshopId": "3671176591",
-      "name": "dustinguished bolt cutters"
+      "name": "dustinguished bolt cutters",
+      "timeUpdated": 1788893249
     },
     {
       "modId": "Viewpoint3DTracerFix",
       "workshopId": "3811640626",
-      "name": "Viewpoint3DTracerFix"
+      "name": "Viewpoint3DTracerFix",
+      "timeUpdated": 1791150725
     },
     {
       "modId": "CompanionDogs",
       "workshopId": "3740052292",
-      "name": "Companion Dogs [ALPHA]"
+      "name": "Companion Dogs [ALPHA]",
+      "timeUpdated": 1791251330
     },
     {
       "modId": "ComputerModkum",
       "workshopId": "3725497089",
-      "name": "Computer Mod"
+      "name": "Computer Mod",
+      "timeUpdated": 1790703315
     },
     {
       "modId": "ComputerModLaptop",
       "workshopId": "3798992436",
-      "name": "Computer Mod: Laptop Addon"
+      "name": "Computer Mod: Laptop Addon",
+      "timeUpdated": 1789029017
     },
     {
       "modId": "SXM_Intimacy",
       "workshopId": "3814771292",
-      "name": "Crackpocalypse"
+      "name": "Crackpocalypse",
+      "timeUpdated": 1792227953
     },
     {
       "modId": "RollingHillsPhysics",
       "workshopId": "3817555882",
-      "name": "Rolling Hills Physics"
+      "name": "Rolling Hills Physics",
+      "timeUpdated": 1791689720
     },
     {
       "modId": "GrassierGrassViewpoint",
       "workshopId": "3818853354",
-      "name": "Grassier Grass (Viewpoint)"
+      "name": "Grassier Grass (Viewpoint)",
+      "timeUpdated": 1792275670
     },
     {
       "modId": "KnoxWildlife",
       "workshopId": "3818096743",
-      "name": "Knox Wildlife"
+      "name": "Knox Wildlife",
+      "timeUpdated": 1792086083
     },
     {
       "modId": "LifestyleHobbies",
       "workshopId": "3403870858",
-      "name": "Lifestyle: Hobbies"
+      "name": "Lifestyle: Hobbies",
+      "timeUpdated": 1789815299
     },
     {
       "modId": "DeadAir",
       "workshopId": "3816180767",
-      "name": "Musician"
+      "name": "Musician",
+      "timeUpdated": 1792963255
     },
     {
       "modId": "NepMoreOnFloor",
       "workshopId": "3457064550",
-      "name": "Nepenthe's More On The Floor"
+      "name": "Nepenthe's More On The Floor",
+      "timeUpdated": 1773295890
     },
     {
       "modId": "OdysseyOnPiano",
       "workshopId": "3595585700",
-      "name": "Odyssey On Piano [A Lifestyle Addon]"
+      "name": "Odyssey On Piano [A Lifestyle Addon]",
+      "timeUpdated": 1787117605
     },
     {
       "modId": "ProjectALifeJimmy",
       "workshopId": "3806944055",
-      "name": "Project A-Life - Jeem Extension"
+      "name": "Project A-Life - Jeem Extension",
+      "timeUpdated": 1792643212
     },
     {
       "modId": "RainCleansBlood",
       "workshopId": "2956146279",
-      "name": "Rain Cleans Blood"
+      "name": "Rain Cleans Blood",
+      "timeUpdated": 1790349020
     },
     {
       "modId": "RaxCheatMenu",
       "workshopId": "3815818643",
-      "name": "Rax's Cheat Menu 2.0 [B42.21]"
+      "name": "Rax's Cheat Menu 2.0 [B42.21]",
+      "timeUpdated": 1792680583
     },
     {
       "modId": "Redraw",
       "workshopId": "3818548144",
-      "name": "Redraw (Viewpoint shader pack)"
+      "name": "Redraw (Viewpoint shader pack)",
+      "timeUpdated": 1792519424
     },
     {
       "modId": "ViewpointAdvancedMovement",
       "workshopId": "3812702301",
-      "name": "Viewpoint Advanced Movement"
+      "name": "Viewpoint Advanced Movement",
+      "timeUpdated": 1792195761
     },
     {
       "modId": "ViewpointAdvancedMovementServer",
       "workshopId": "3812702301",
-      "name": "Viewpoint Advanced Movement (server part)"
+      "name": "Viewpoint Advanced Movement (server part)",
+      "timeUpdated": 1792195761
     },
     {
       "modId": "RealisticDoorImpacts",
       "workshopId": "3820462383",
-      "name": "Project Viewpoint - Actual Door Rattling"
+      "name": "Project Viewpoint - Actual Door Rattling",
+      "timeUpdated": 1792406447
     },
     {
       "modId": "ViewpointFreeAim",
       "workshopId": "3820063546",
-      "name": "Viewpoint Free Aim"
+      "name": "Viewpoint Free Aim",
+      "timeUpdated": 1792106977
     },
     {
       "modId": "HeliEvent",
       "workshopId": "3818359767",
-      "name": "3D Helicopter Event - Project Viewpoint"
+      "name": "3D Helicopter Event - Project Viewpoint",
+      "timeUpdated": 1792035495
     },
     {
       "modId": "AttachmentsUI",
       "workshopId": "3816324722",
-      "name": "Attachments UI"
+      "name": "Attachments UI",
+      "timeUpdated": 1792677689
     },
     {
       "modId": "BetterFireExtinguishers",
       "workshopId": "3795847162",
-      "name": "Better Fire Extinguishers"
+      "name": "Better Fire Extinguishers",
+      "timeUpdated": 1788574890
     },
     {
       "modId": "ItIsOfInterestToMe",
       "workshopId": "3796373365",
-      "name": "It is of interest to me!"
+      "name": "It is of interest to me!",
+      "timeUpdated": 1792431749
     },
     {
       "modId": "PZ_Pulse",
       "workshopId": "3753700423",
-      "name": "PZ Pulse"
+      "name": "PZ Pulse",
+      "timeUpdated": 1792001529
     },
     {
       "modId": "ProjectArcade",
       "workshopId": "3645980077",
-      "name": "ProjectArcade"
+      "name": "ProjectArcade",
+      "timeUpdated": 1786886558
     },
     {
       "modId": "ScarSystem",
       "workshopId": "3750907049",
-      "name": "ScarSystem"
+      "name": "ScarSystem",
+      "timeUpdated": 1790732211
     },
     {
       "modId": "ViewpointFPS",
       "workshopId": "3820156996",
-      "name": "Viewpoint FPS Optimization"
+      "name": "Viewpoint FPS Optimization",
+      "timeUpdated": 1792690160
     },
     {
       "modId": "Tuna_GunRacks",
       "workshopId": "3784677588",
-      "name": "3D Gun Racks"
+      "name": "3D Gun Racks",
+      "timeUpdated": 1788911786
     },
     {
       "modId": "SWMG",
       "workshopId": "3722064198",
-      "name": "Gunworks-gang"
+      "name": "Gunworks-gang",
+      "timeUpdated": 1792749804
     },
     {
       "modId": "GunsOfMarz",
       "workshopId": "3722134990",
-      "name": "Guns of Marz"
+      "name": "Guns of Marz",
+      "timeUpdated": 1792738124
     },
     {
       "modId": "ALifeGunsOfMarz",
       "workshopId": "3810988454",
-      "name": "A-Life - Guns of Marz Loadouts"
+      "name": "A-Life - Guns of Marz Loadouts",
+      "timeUpdated": 1790802236
     },
     {
       "modId": "ALifeRelations",
       "workshopId": "3811696048",
-      "name": "A-Life Faction Relations"
+      "name": "A-Life Faction Relations",
+      "timeUpdated": 1792232114
     },
     {
       "modId": "ALifeKnoxFractured",
       "workshopId": "3813871509",
-      "name": "A-Life: Factions Expanded"
+      "name": "A-Life: Factions Expanded",
+      "timeUpdated": 1791182932
     },
     {
       "modId": "AliveJeemDynamicWorld",
       "workshopId": "3821393562",
-      "name": "A-Life: Living Factions"
+      "name": "A-Life: Living Factions",
+      "timeUpdated": 1792447160
     },
     {
       "modId": "ALifeSurvivorContracts",
       "workshopId": "3813848771",
-      "name": "A-Life: Survivor Contracts"
+      "name": "A-Life: Survivor Contracts",
+      "timeUpdated": 1791174307
     },
     {
       "modId": "CompanionCat",
       "workshopId": "3791294616",
-      "name": "CD: Cats"
+      "name": "CD: Cats",
+      "timeUpdated": 1791251472
     },
     {
       "modId": "CompanionDogsPug",
       "workshopId": "3787202559",
-      "name": "CD: Pug"
+      "name": "CD: Pug",
+      "timeUpdated": 1791251436
     },
     {
       "modId": "CHStatusHUD",
       "workshopId": "3776182375",
-      "name": "CH Status HUD"
+      "name": "CH Status HUD",
+      "timeUpdated": 1792098790
     },
     {
       "modId": "SmartTextureLeakFix",
       "workshopId": "3821525282",
-      "name": "Character Texture VRAM Leak Fix [ZombieBuddy]"
+      "name": "Character Texture VRAM Leak Fix [ZombieBuddy]",
+      "timeUpdated": 1792643639
     },
     {
       "modId": "CryOfFearMonsters",
       "workshopId": "3813406470",
-      "name": "Cry of Fear Monsters"
+      "name": "Cry of Fear Monsters",
+      "timeUpdated": 1792780636
     },
     {
       "modId": "CyesPushDoors",
       "workshopId": "3780683663",
-      "name": "Cye's Push Doors!"
+      "name": "Cye's Push Doors!",
+      "timeUpdated": 1789617834
     },
     {
       "modId": "GoMMaxAmmo",
       "workshopId": "3773608503",
-      "name": "GoM Max Ammo"
+      "name": "GoM Max Ammo",
+      "timeUpdated": 1786239093
     },
     {
       "modId": "PeixesBRExpansion",
       "workshopId": "3784235810",
-      "name": "Fishing Expansion BR [B42]"
+      "name": "Fishing Expansion BR [B42]",
+      "timeUpdated": 1789265464
     },
     {
       "modId": "GoM556Buff",
       "workshopId": "3806612200",
-      "name": "Guns Of Marz 5.56 Buff"
+      "name": "Guns Of Marz 5.56 Buff",
+      "timeUpdated": 1790758419
     },
     {
       "modId": "HBAmmoCraft",
       "workshopId": "3610677934",
-      "name": "Hot Brass - Ammo Crafting"
+      "name": "Hot Brass - Ammo Crafting",
+      "timeUpdated": 1792738100
     },
     {
       "modId": "HBTacReload",
       "workshopId": "3610677934",
-      "name": "Hot Brass - Tactical Reload"
+      "name": "Hot Brass - Tactical Reload",
+      "timeUpdated": 1792738100
     },
     {
       "modId": "ImmersiveDriving",
       "workshopId": "3817413313",
-      "name": "Immersive Driving"
+      "name": "Immersive Driving",
+      "timeUpdated": 1792268573
     },
     {
       "modId": "MoodleFramework",
       "workshopId": "3396446795",
-      "name": "Moodle Framework"
+      "name": "Moodle Framework",
+      "timeUpdated": 1788783344
     },
     {
       "modId": "NeatUI_Framework",
       "workshopId": "3508537032",
-      "name": "NeatUI_Framework"
+      "name": "NeatUI_Framework",
+      "timeUpdated": 1789992909
     },
     {
       "modId": "NeatUI_Hairstyler",
       "workshopId": "3760534563",
-      "name": "NeatUI Hairstyler"
+      "name": "NeatUI Hairstyler",
+      "timeUpdated": 1791462149
     },
     {
       "modId": "PlayerGreetings",
       "workshopId": "3820590495",
-      "name": "PZ Relationship"
+      "name": "PZ Relationship",
+      "timeUpdated": 1792941032
     },
     {
       "modId": "playable_pool",
       "workshopId": "3716934959",
-      "name": "Playable Minigames (Previously Playable Pool)"
+      "name": "Playable Minigames (Previously Playable Pool)",
+      "timeUpdated": 1792505593
     },
     {
       "modId": "PlayableTennis",
       "workshopId": "3815419225",
-      "name": "Playable Tennis"
+      "name": "Playable Tennis",
+      "timeUpdated": 1791452636
     },
     {
       "modId": "ProperRagdolls",
       "workshopId": "3821280085",
-      "name": "Proper Ragdolls"
+      "name": "Proper Ragdolls",
+      "timeUpdated": 1792216466
     },
     {
       "modId": "KafeenasCannabisB42",
       "workshopId": "3819427134",
-      "name": "Schedule 1"
+      "name": "Schedule 1",
+      "timeUpdated": 1791938277
     },
     {
       "modId": "KafeenasCannabisViewpoint",
       "workshopId": "3819427134",
-      "name": "Schedule 1 Viewpoint Compatibility"
+      "name": "Schedule 1 Viewpoint Compatibility",
+      "timeUpdated": 1791938277
     },
     {
       "modId": "SilentHillMonsters",
       "workshopId": "3821752171",
-      "name": "Silent Hill Monsters"
+      "name": "Silent Hill Monsters",
+      "timeUpdated": 1792780900
     },
     {
       "modId": "SurvivorBriefing",
       "workshopId": "3808944882",
-      "name": "Survivor Briefing"
+      "name": "Survivor Briefing",
+      "timeUpdated": 1792941164
     },
     {
       "modId": "TacHoldFork",
       "workshopId": "3788899474",
-      "name": "Tactical Hold Complete [Fork]"
+      "name": "Tactical Hold Complete [Fork]",
+      "timeUpdated": 1788807776
     },
     {
       "modId": "thisIsMe-Traits",
       "workshopId": "3806020504",
-      "name": "This Is Me - More Character Traits"
+      "name": "This Is Me - More Character Traits",
+      "timeUpdated": 1790960183
     },
     {
       "modId": "thisIsMe-TraitsMP",
       "workshopId": "3806020504",
-      "name": "This Is Me - More Character Traits (Multiplayer)"
+      "name": "This Is Me - More Character Traits (Multiplayer)",
+      "timeUpdated": 1790960183
     },
     {
       "modId": "VanillaCameraExpansion",
       "workshopId": "3817699144",
-      "name": "Vanilla Camera Expansion"
+      "name": "Vanilla Camera Expansion",
+      "timeUpdated": 1792891103
     },
     {
       "modId": "VehicleArmorCrafting",
       "workshopId": "3800858172",
-      "name": "Vehicle Armor Crafting [B42]"
+      "name": "Vehicle Armor Crafting [B42]",
+      "timeUpdated": 1789588909
     },
     {
       "modId": "ViewpointRightClick",
       "workshopId": "3819018807",
-      "name": "Viewpoint - Right Click Fix"
+      "name": "Viewpoint - Right Click Fix",
+      "timeUpdated": 1791951023
     },
     {
       "modId": "ViewpointFixes",
       "workshopId": "3814918750",
-      "name": "Viewpoint Fixes (Unofficial)"
+      "name": "Viewpoint Fixes (Unofficial)",
+      "timeUpdated": 1791323590
     },
     {
       "modId": "ViewpointBodycam",
       "workshopId": "3818432217",
-      "name": "Viewpoint Immersive Camera Motion"
+      "name": "Viewpoint Immersive Camera Motion",
+      "timeUpdated": 1792775431
     },
     {
       "modId": "ViewpointALife",
       "workshopId": "3822854313",
-      "name": "Viewpoint x A-LIFE"
+      "name": "Viewpoint x A-LIFE",
+      "timeUpdated": 1792830477
     },
     {
       "modId": "VisceralViewpoint",
       "workshopId": "3820965001",
-      "name": "Visceral (Viewpoint)"
+      "name": "Visceral (Viewpoint)",
+      "timeUpdated": 1792276875
     },
     {
       "modId": "VisibleDoorDamagebyYurik",
       "workshopId": "3799596085",
-      "name": "Visible Door Damage [B42 MP]"
+      "name": "Visible Door Damage [B42 MP]",
+      "timeUpdated": 1792146650
     },
     {
       "modId": "batman_TrainingTarget",
       "workshopId": "3810261246",
-      "name": "batman_Training Target"
+      "name": "batman_Training Target",
+      "timeUpdated": 1792600997
     },
     {
       "modId": "CDALifePatch",
       "workshopId": "3807738026",
-      "name": "Project A-Life & Companion Dogs Compatibility Patch"
+      "name": "Project A-Life & Companion Dogs Compatibility Patch",
+      "timeUpdated": 1792421626
     },
     {
       "modId": "batman_TrainingTargetViewpoint",
       "workshopId": "3810261246",
-      "name": "batman_Training Target - Viewpoint models"
+      "name": "batman_Training Target - Viewpoint models",
+      "timeUpdated": 1792600997
     },
     {
       "modId": "VRAMSteady",
       "workshopId": "3819844505",
-      "name": "VRAM Steady"
+      "name": "VRAM Steady",
+      "timeUpdated": 1792153517
     },
     {
       "modId": "ProjectViewpointQOL",
       "workshopId": "3811256204",
-      "name": "Project Viewpoint QOL"
+      "name": "Project Viewpoint QOL",
+      "timeUpdated": 1792319533
     },
     {
       "modId": "ViewpointImmersiveEffects",
       "workshopId": "3812984535",
-      "name": "Viewpoint - Immersive Effects"
+      "name": "Viewpoint - Immersive Effects",
+      "timeUpdated": 1791701369
     },
     {
       "modId": "ProjectViewpointParkour",
       "workshopId": "3811645644",
-      "name": "Project Viewpoint Parkour"
+      "name": "Project Viewpoint Parkour",
+      "timeUpdated": 1791687334
     },
     {
       "modId": "XensEnhancedGUI",
       "workshopId": "3819012597",
-      "name": "Xen's Enhanced GUI"
+      "name": "Xen's Enhanced GUI",
+      "timeUpdated": 1792967645
     },
     {
       "modId": "DeadWorksVehicleFramework",
       "workshopId": "3825724093",
-      "name": "DeadWorks Vehicle Framework"
+      "name": "DeadWorks Vehicle Framework",
+      "timeUpdated": 1792974002
     },
     {
       "modId": "DeadWorksNomadRV",
       "workshopId": "3820158673",
-      "name": "Nomad RV"
+      "name": "Nomad RV",
+      "timeUpdated": 1792961103
     },
     {
       "modId": "DeadWorksDaleRV",
       "workshopId": "3820158673",
-      "name": "Dale's Chieftain RV"
+      "name": "Dale's Chieftain RV",
+      "timeUpdated": 1792961103
     },
     {
       "modId": "GridVans",
       "workshopId": "3821174725",
-      "name": "Viewpoint - 3D RV Van"
+      "name": "Viewpoint - 3D RV Van",
+      "timeUpdated": 1792372383
     },
     {
       "modId": "GridVansHost",
       "workshopId": "3821174725",
-      "name": "3D Vans Host backend"
+      "name": "3D Vans Host backend",
+      "timeUpdated": 1792372383
     },
     {
       "modId": "RepairAnyClothes",
       "workshopId": "2142622992",
-      "name": "Repair Any Clothes"
+      "name": "Repair Any Clothes",
+      "timeUpdated": 1785664447
     },
     {
       "modId": "modoptions",
       "workshopId": "2169435993",
-      "name": "Mod Options"
+      "name": "Mod Options",
+      "timeUpdated": 1666019194
     },
     {
       "modId": "AuthenticAnimations",
       "workshopId": "2207282444",
-      "name": "AuthenticAnimations"
+      "name": "AuthenticAnimations",
+      "timeUpdated": 1735888594
     },
     {
       "modId": "AuthenticZLite",
       "workshopId": "2335368829",
-      "name": "Authentic Z - Lite"
+      "name": "Authentic Z - Lite",
+      "timeUpdated": 1789340498
     },
     {
       "modId": "FH",
       "workshopId": "2447729538",
-      "name": "Fluffy Hair"
+      "name": "Fluffy Hair",
+      "timeUpdated": 1786359514
     },
     {
       "modId": "P4HasBeenRead",
       "workshopId": "2544353492",
-      "name": "Has Been Read"
+      "name": "Has Been Read",
+      "timeUpdated": 1791596280
     },
     {
       "modId": "Improved_Fire_And_Smoke_Ffects",
       "workshopId": "2645975408",
-      "name": "Improved Fire & Smoke Effects"
+      "name": "Improved Fire & Smoke Effects",
+      "timeUpdated": 1735286409
     },
     {
       "modId": "RebalancedPropMoving",
       "workshopId": "2699828474",
-      "name": "Rebalanced Prop Moving"
+      "name": "Rebalanced Prop Moving",
+      "timeUpdated": 1790434519
     },
     {
       "modId": "BoredomTweaks",
       "workshopId": "2725360009",
-      "name": "Boredom Tweaks"
+      "name": "Boredom Tweaks",
+      "timeUpdated": 1789975195
     },
     {
       "modId": "YouDriveISleep",
       "workshopId": "2830570280",
-      "name": "You Drive I Sleep"
+      "name": "You Drive I Sleep",
+      "timeUpdated": 1771198724
     },
     {
       "modId": "errorMagnifier",
       "workshopId": "2896041179",
-      "name": "errorMagnifier"
+      "name": "errorMagnifier",
+      "timeUpdated": 1787161107
     },
     {
       "modId": "ComfySleeping",
       "workshopId": "2998737588",
-      "name": "ComfySleeping"
+      "name": "ComfySleeping",
+      "timeUpdated": 1786289335
     },
     {
       "modId": "KAMER_WallHealth",
       "workshopId": "3002666175",
-      "name": "[K] Show Wall Health"
+      "name": "[K] Show Wall Health",
+      "timeUpdated": 1790606120
     },
     {
       "modId": "KAMER_RepairWall",
       "workshopId": "3006882690",
-      "name": "[K] Repair Wall"
+      "name": "[K] Repair Wall",
+      "timeUpdated": 1790606085
     },
     {
       "modId": "FunctionalAppliances2",
       "workshopId": "3042138819",
-      "name": "Functional Appliances 2"
+      "name": "Functional Appliances 2",
+      "timeUpdated": 1788918965
     },
     {
       "modId": "ChuckleberryFinnAlertSystem",
       "workshopId": "3077900375",
-      "name": "Mod Update and Alert System"
+      "name": "Mod Update and Alert System",
+      "timeUpdated": 1775660491
     },
     {
       "modId": "AatheomEMVFSM",
       "workshopId": "3322066592",
-      "name": "Every Missing Vanilla Food Static Model"
+      "name": "Every Missing Vanilla Food Static Model",
+      "timeUpdated": 1789684256
     },
     {
       "modId": "StarlitLibrary",
       "workshopId": "3378285185",
-      "name": "Starlit Library"
+      "name": "Starlit Library",
+      "timeUpdated": 1787179139
     },
     {
       "modId": "AutoMechanics",
       "workshopId": "3387539308",
-      "name": "Auto Mechanics"
+      "name": "Auto Mechanics",
+      "timeUpdated": 1786968520
     },
     {
       "modId": "TchernoLib",
       "workshopId": "3389605231",
-      "name": "TchernoLib"
+      "name": "TchernoLib",
+      "timeUpdated": 1791190973
     },
     {
       "modId": "ExerciseWithGearAgain",
       "workshopId": "3390760692",
-      "name": "Exercise With Gear"
+      "name": "Exercise With Gear",
+      "timeUpdated": 1735028657
     },
     {
       "modId": "ExerciseWithCorpses",
       "workshopId": "3404074048",
-      "name": "ExerciseWithCorpses"
+      "name": "ExerciseWithCorpses",
+      "timeUpdated": 1788878227
     },
     {
       "modId": "SapphCooking_B42",
       "workshopId": "3409143790",
-      "name": "Sapph's Cooking"
+      "name": "Sapph's Cooking",
+      "timeUpdated": 1787614090
     },
     {
       "modId": "TrueSmoking",
       "workshopId": "3423984426",
-      "name": "True Smoking"
+      "name": "True Smoking",
+      "timeUpdated": 1787681363
     },
     {
       "modId": "FunctionalGutters",
       "workshopId": "3439305933",
-      "name": "[B42] Functional Gutters"
+      "name": "[B42] Functional Gutters",
+      "timeUpdated": 1788638047
     },
     {
       "modId": "FunctionalCarLift",
       "workshopId": "3464551542",
-      "name": "Functional Car Lift"
+      "name": "Functional Car Lift",
+      "timeUpdated": 1785867025
     },
     {
       "modId": "FeedThatAnimalMP",
       "workshopId": "3487450124",
-      "name": "Feed That Animal In Multiplayer!"
+      "name": "Feed That Animal In Multiplayer!",
+      "timeUpdated": 1792823073
     },
     {
       "modId": "Project_Cook",
       "workshopId": "3490188370",
-      "name": "Project Cook"
+      "name": "Project Cook",
+      "timeUpdated": 1791811588
     },
     {
       "modId": "Project_Cook_Pixel_Icon_Pack",
       "workshopId": "3490188370",
-      "name": "Project Cook Pixel Icon Pack"
+      "name": "Project Cook Pixel Icon Pack",
+      "timeUpdated": 1791811588
     },
     {
       "modId": "SomewhatTraitsCore",
       "workshopId": "3498347699",
-      "name": "Somewhat Traits Core"
+      "name": "Somewhat Traits Core",
+      "timeUpdated": 1786356229
     },
     {
       "modId": "SomewhatTraitsSkills",
       "workshopId": "3498347699",
-      "name": "Somewhat Traits Skills"
+      "name": "Somewhat Traits Skills",
+      "timeUpdated": 1786356229
     },
     {
       "modId": "SomewhatTraits",
       "workshopId": "3498347699",
-      "name": "Somewhat Traits"
+      "name": "Somewhat Traits",
+      "timeUpdated": 1786356229
     },
     {
       "modId": "PlaceAnywhereMod",
       "workshopId": "3613917826",
-      "name": "PlaceAnywhereMod"
+      "name": "PlaceAnywhereMod",
+      "timeUpdated": 1790870653
     },
     {
       "modId": "FixedLightOnBeltAF",
       "workshopId": "3625933422",
-      "name": "[B42] Simple Flashlight on Belt! (Angled Flashlight fix)"
+      "name": "[B42] Simple Flashlight on Belt! (Angled Flashlight fix)",
+      "timeUpdated": 1766941225
     },
     {
       "modId": "TrueActionsDancing",
       "workshopId": "3650071729",
-      "name": "True Actions Dancing"
+      "name": "True Actions Dancing",
+      "timeUpdated": 1788028894
     },
     {
       "modId": "SaucedCarts",
       "workshopId": "3651954650",
-      "name": "SaucedCarts - Pushable Carts"
+      "name": "SaucedCarts - Pushable Carts",
+      "timeUpdated": 1791144422
     },
     {
       "modId": "LeanAndLie",
       "workshopId": "3652012357",
-      "name": "Lean & Lie"
+      "name": "Lean & Lie",
+      "timeUpdated": 1789534939
     },
     {
       "modId": "MinidoracatSafeSpawn",
       "workshopId": "3653490664",
-      "name": "Minidoracat Safe Spawn"
+      "name": "Minidoracat Safe Spawn",
+      "timeUpdated": 1792575906
     },
     {
       "modId": "ServerWorkshopModAutoRestartB42",
       "workshopId": "3659447892",
-      "name": "Server Workshop Mod Update Checker & Auto-Restart (B42) 42.13+ MP HDRcade"
+      "name": "Server Workshop Mod Update Checker & Auto-Restart (B42) 42.13+ MP HDRcade",
+      "timeUpdated": 1772183247
     },
     {
       "modId": "ItemRarityUI",
       "workshopId": "3662387304",
-      "name": "Item Rarity UI"
+      "name": "Item Rarity UI",
+      "timeUpdated": 1771240713
     },
     {
       "modId": "SkullysContainerRebalanced",
       "workshopId": "3698401476",
-      "name": "Skully's Rebalanced Containers"
+      "name": "Skully's Rebalanced Containers",
+      "timeUpdated": 1786560745
     },
     {
       "modId": "SkullysDufflesAndRigs",
       "workshopId": "3698401476",
-      "name": "Skully's Duffelbags and Rigs"
+      "name": "Skully's Duffelbags and Rigs",
+      "timeUpdated": 1786560745
     },
     {
       "modId": "SkullysItemRebalance",
       "workshopId": "3698401476",
-      "name": "Skully's Item Rebalance"
+      "name": "Skully's Item Rebalance",
+      "timeUpdated": 1786560745
     },
     {
       "modId": "Navigator",
       "workshopId": "3708816224",
-      "name": "Navigator"
+      "name": "Navigator",
+      "timeUpdated": 1788342975
     },
     {
       "modId": "NC_NaturesCall",
       "workshopId": "3709126801",
-      "name": "Nature's Call"
+      "name": "Nature's Call",
+      "timeUpdated": 1792130730
     },
     {
       "modId": "BuildableGarageDoors",
       "workshopId": "3727753275",
-      "name": "[B42] Buildable Garage Doors"
+      "name": "[B42] Buildable Garage Doors",
+      "timeUpdated": 1790508297
     },
     {
       "modId": "SeedSeasonIndicator",
       "workshopId": "3734639991",
-      "name": "Seed Season Indicator"
+      "name": "Seed Season Indicator",
+      "timeUpdated": 1789960645
     },
     {
       "modId": "RetroDashboard",
       "workshopId": "3739256322",
-      "name": "Banger's Retro Car Dashboard"
+      "name": "Banger's Retro Car Dashboard",
+      "timeUpdated": 1787786712
     },
     {
       "modId": "CVI",
       "workshopId": "3749026793",
-      "name": "Carry Visible Items"
+      "name": "Carry Visible Items",
+      "timeUpdated": 1786994277
     },
     {
       "modId": "PAR",
       "workshopId": "3749848348",
-      "name": "Plysken Attachments Reborn"
+      "name": "Plysken Attachments Reborn",
+      "timeUpdated": 1792659398
     },
     {
       "modId": "VB_CommonSense",
       "workshopId": "3750253491",
-      "name": "Common Sense"
+      "name": "Common Sense",
+      "timeUpdated": 1791823053
     },
     {
       "modId": "CompanionDogsRottweiler",
       "workshopId": "3762296152",
-      "name": "CD: Rottweiler"
+      "name": "CD: Rottweiler",
+      "timeUpdated": 1791251452
     },
     {
       "modId": "CraftingSkillsPractice",
       "workshopId": "3765795716",
-      "name": "Crafting Skills Practice"
+      "name": "Crafting Skills Practice",
+      "timeUpdated": 1790529853
     },
     {
       "modId": "PZ_Map",
       "workshopId": "3770149036",
-      "name": "PZ Map"
+      "name": "PZ Map",
+      "timeUpdated": 1790864097
     },
     {
       "modId": "alicesWeaponSling",
       "workshopId": "3775549570",
-      "name": "Alice's Weapon Sling"
+      "name": "Alice's Weapon Sling",
+      "timeUpdated": 1790955476
     },
     {
       "modId": "alicesWeaponSlingRadialMenu",
       "workshopId": "3775549570",
-      "name": "Alice's Weapon Sling - Radial Menu [ADDON]"
+      "name": "Alice's Weapon Sling - Radial Menu [ADDON]",
+      "timeUpdated": 1790955476
     },
     {
       "modId": "SkullysZombieCollision",
       "workshopId": "3778511497",
-      "name": "Skully's Zombie Collision"
+      "name": "Skully's Zombie Collision",
+      "timeUpdated": 1786496899
     },
     {
       "modId": "ImprovisedSilencers",
       "workshopId": "3779164273",
-      "name": "Improvised Silencers (Build 42.20 Compatibility)"
+      "name": "Improvised Silencers (Build 42.20 Compatibility)",
+      "timeUpdated": 1787607839
     },
     {
       "modId": "LGExtendedPlumbing",
       "workshopId": "3779561845",
-      "name": "LG Extended Plumbing"
+      "name": "LG Extended Plumbing",
+      "timeUpdated": 1790800359
     },
     {
       "modId": "MultiPurposeItemRack",
       "workshopId": "3780806520",
-      "name": "Todds mods: Multi purpose item rack"
+      "name": "Todds mods: Multi purpose item rack",
+      "timeUpdated": 1787342448
     },
     {
       "modId": "CarRoofFix",
       "workshopId": "3781616141",
-      "name": "Vehicle Aim Roof Fix"
+      "name": "Vehicle Aim Roof Fix",
+      "timeUpdated": 1789034599
     },
     {
       "modId": "NicksInventorySelectionFix",
       "workshopId": "3782920935",
-      "name": "Nick's Inventory Selection Fix"
+      "name": "Nick's Inventory Selection Fix",
+      "timeUpdated": 1788058371
     },
     {
       "modId": "NeatLockpicking",
       "workshopId": "3783535220",
-      "name": "Neat Lockpicking"
+      "name": "Neat Lockpicking",
+      "timeUpdated": 1791223613
     },
     {
       "modId": "MapCenter",
       "workshopId": "3790912405",
-      "name": "Center Map"
+      "name": "Center Map",
+      "timeUpdated": 1788428215
     },
     {
       "modId": "IAmBruceLeeNow",
       "workshopId": "3791279212",
-      "name": "I Am Bruce Lee Now"
+      "name": "I Am Bruce Lee Now",
+      "timeUpdated": 1791291459
     },
     {
       "modId": "ProjectWriting",
       "workshopId": "3796402502",
-      "name": "Project Writing"
+      "name": "Project Writing",
+      "timeUpdated": 1791675772
     },
     {
       "modId": "KnoxAquarium",
       "workshopId": "3797356103",
-      "name": "Knox Aquarium (Beta)"
+      "name": "Knox Aquarium (Beta)",
+      "timeUpdated": 1791426828
     },
     {
       "modId": "PropaneExplosion",
       "workshopId": "3799731329",
-      "name": "Propane Explosion"
+      "name": "Propane Explosion",
+      "timeUpdated": 1789265183
     },
     {
       "modId": "TrueSwimming",
       "workshopId": "3802372726",
-      "name": "True Swimming"
+      "name": "True Swimming",
+      "timeUpdated": 1791492607
     },
     {
       "modId": "CurlUp",
       "workshopId": "3805221815",
-      "name": "Curl Up"
+      "name": "Curl Up",
+      "timeUpdated": 1791793222
     },
     {
       "modId": "CasualtiesUndead",
       "workshopId": "3805748433",
-      "name": "Casualties Undead"
+      "name": "Casualties Undead",
+      "timeUpdated": 1790918209
     },
     {
       "modId": "VisibleVehicleCouplingB42",
       "workshopId": "3807182783",
-      "name": "Visible Vehicle Coupling (VVC)"
+      "name": "Visible Vehicle Coupling (VVC)",
+      "timeUpdated": 1792560183
     },
     {
       "modId": "ImmersiveSnow",
       "workshopId": "3810071828",
-      "name": "Immersive Snow"
+      "name": "Immersive Snow",
+      "timeUpdated": 1792748047
     },
     {
       "modId": "Construction1PViewpoint",
       "workshopId": "3812312558",
-      "name": "Construction 1P Viewpoint"
+      "name": "Construction 1P Viewpoint",
+      "timeUpdated": 1791819409
     },
     {
       "modId": "ViewpointCropVisibility",
       "workshopId": "3812659173",
-      "name": "Viewpoint - Crop Visibility Fix"
+      "name": "Viewpoint - Crop Visibility Fix",
+      "timeUpdated": 1791040604
     },
     {
       "modId": "BlackoutDrunk",
       "workshopId": "3812698874",
-      "name": "Blackout Drunk"
+      "name": "Blackout Drunk",
+      "timeUpdated": 1791044122
     },
     {
       "modId": "ViewpointFences",
       "workshopId": "3813723091",
-      "name": "Viewpoint 3D Fences and Gates - Beta"
+      "name": "Viewpoint 3D Fences and Gates - Beta",
+      "timeUpdated": 1791153299
     },
     {
       "modId": "CameraTweaksViewpoint",
       "workshopId": "3814742214",
-      "name": "Camera Tweaks for Viewpoint"
+      "name": "Camera Tweaks for Viewpoint",
+      "timeUpdated": 1791328884
     },
     {
       "modId": "BulletImpactMarks",
       "workshopId": "3814993552",
-      "name": "Bullet Holes"
+      "name": "Bullet Holes",
+      "timeUpdated": 1791808321
     },
     {
       "modId": "ViewpointForaging",
       "workshopId": "3814994364",
-      "name": "Viewpoint Foraging"
+      "name": "Viewpoint Foraging",
+      "timeUpdated": 1792009471
     },
     {
       "modId": "CDAJCompatPatch",
       "workshopId": "3815176060",
-      "name": "A-Life Jeems and Companion Dogs Compatibility Patch"
+      "name": "A-Life Jeems and Companion Dogs Compatibility Patch",
+      "timeUpdated": 1792243134
     },
     {
       "modId": "ViewpointBunkerFix",
       "workshopId": "3815531837",
-      "name": "Viewpoint Bunker Fix"
+      "name": "Viewpoint Bunker Fix",
+      "timeUpdated": 1791412739
     },
     {
       "modId": "ALifeViewpointCompat",
       "workshopId": "3815721297",
-      "name": "A-Life x Viewpoint Compat"
+      "name": "A-Life x Viewpoint Compat",
+      "timeUpdated": 1791452742
     },
     {
       "modId": "KnoxMobile",
       "workshopId": "3818422092",
-      "name": "Knox Mobile"
+      "name": "Knox Mobile",
+      "timeUpdated": 1792833124
     },
     {
       "modId": "ViewpointBinoculars",
       "workshopId": "3818585720",
-      "name": "Viewpoint Binoculars"
+      "name": "Viewpoint Binoculars",
+      "timeUpdated": 1792844966
     },
     {
       "modId": "ViewpointAdvancedFlashlight",
       "workshopId": "3818857682",
-      "name": "Viewpoint Advanced Flashlight"
+      "name": "Viewpoint Advanced Flashlight",
+      "timeUpdated": 1792710913
     },
     {
       "modId": "ViewpointOfMarz",
       "workshopId": "3819820321",
-      "name": "Viewpoint of Marz"
+      "name": "Viewpoint of Marz",
+      "timeUpdated": 1792002148
     },
     {
       "modId": "ViewpointHorseSolid",
       "workshopId": "3820421584",
-      "name": "Project Viewpoint - Solid Horses"
+      "name": "Project Viewpoint - Solid Horses",
+      "timeUpdated": 1792495777
     },
     {
       "modId": "ViewpointSizeMatters",
       "workshopId": "3821185516",
-      "name": "Viewpoint Size Matters"
+      "name": "Viewpoint Size Matters",
+      "timeUpdated": 1792946477
     },
     {
       "modId": "ViewpointWorkingTVs",
       "workshopId": "3821610732",
-      "name": "Viewpoint - 3D Working TVs & Radios"
+      "name": "Viewpoint - 3D Working TVs & Radios",
+      "timeUpdated": 1792965577
     },
     {
       "modId": "MoreBadgesB42",
       "workshopId": "3821955789",
-      "name": "Viewpoint Wearable Badges [B42]"
+      "name": "Viewpoint Wearable Badges [B42]",
+      "timeUpdated": 1792781433
     },
     {
       "modId": "AnimationTweaks",
       "workshopId": "3822203889",
-      "name": "mathew1521's Animation Tweaks"
+      "name": "mathew1521's Animation Tweaks",
+      "timeUpdated": 1792323481
     },
     {
       "modId": "MultiPurposeItemRackViewpointCompat",
       "workshopId": "3822607546",
-      "name": "Todds mods: Multi purpose item rack Project viewpoint compatibility mod"
+      "name": "Todds mods: Multi purpose item rack Project viewpoint compatibility mod",
+      "timeUpdated": 1792359935
     },
     {
       "modId": "CarBatteryChargerModel",
       "workshopId": "3822775022",
-      "name": "Car Battery Charger 3D Model"
+      "name": "Car Battery Charger 3D Model",
+      "timeUpdated": 1792556845
     },
     {
       "modId": "CarBatteryChargerModel_Viewpoint",
       "workshopId": "3822775022",
-      "name": "Car Battery Charger 3D Model - Viewpoint Patch"
+      "name": "Car Battery Charger 3D Model - Viewpoint Patch",
+      "timeUpdated": 1792556845
     },
     {
       "modId": "RealisticSemiAuto",
       "workshopId": "3823282005",
-      "name": "Realistic Semi-Auto"
+      "name": "Realistic Semi-Auto",
+      "timeUpdated": 1792902954
     },
     {
       "modId": "LevelFurniture",
       "workshopId": "3823984682",
-      "name": "Level Furniture (Viewpoint)"
+      "name": "Level Furniture (Viewpoint)",
+      "timeUpdated": 1792586336
     },
     {
       "modId": "VVCViewpoint",
       "workshopId": "3824354252",
-      "name": "Visible Vehicle Coupling - Viewpoint Addon"
+      "name": "Visible Vehicle Coupling - Viewpoint Addon",
+      "timeUpdated": 1792638966
     },
     {
       "modId": "BagAndBind",
       "workshopId": "3825634153",
-      "name": "Bag & Bind"
+      "name": "Bag & Bind",
+      "timeUpdated": 1792955953
     },
     {
       "modId": "Railings3D",
       "workshopId": "3825682908",
-      "name": "Railings 3D (Viewpoint)"
+      "name": "Railings 3D (Viewpoint)",
+      "timeUpdated": 1792930095
     },
     {
       "modId": "ViewpointRocks3D",
       "workshopId": "3825760974",
-      "name": "Viewpoint - 3D Rocks"
+      "name": "Viewpoint - 3D Rocks",
+      "timeUpdated": 1792851018
     },
     {
       "modId": "ViewpointInteriors",
       "workshopId": "3826550325",
-      "name": "Viewpoint Vehicle Interiors"
+      "name": "Viewpoint Vehicle Interiors",
+      "timeUpdated": 1792880836
     },
     {
       "modId": "SenatorsDeadInk",
       "workshopId": "3826564551",
-      "name": "Senators Dead Ink"
+      "name": "Senators Dead Ink",
+      "timeUpdated": 1792911431
     },
     {
       "modId": "PlayerBulletControl",
       "workshopId": "3826617690",
-      "name": "Player Bullet Control"
+      "name": "Player Bullet Control",
+      "timeUpdated": 1792887539
     }
   ]
 }
