@@ -1,6 +1,6 @@
 {
   "serverName": "My PZ Server",
-  "updated": "2026-10-25T22:22:35Z",
+  "updated": "2026-10-26T00:18:07Z",
   "gameBuild": "42",
   "mods": [
     {
@@ -1117,11 +1117,6 @@
       "modId": "SenatorsDeadInk",
       "workshopId": "3826564551",
       "name": "Senators Dead Ink"
-    },
-    {
-      "modId": "CityscapeViewpointMaps",
-      "workshopId": "3826608236",
-      "name": "Cityscape Viewpoint Maps"
     },
     {
       "modId": "PlayerBulletControl",
