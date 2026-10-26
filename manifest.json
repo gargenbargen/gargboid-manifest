@@ -1,9 +1,10 @@
 {
   "serverName": "My PZ Server",
-  "updated": "2026-10-26T02:17:47Z",
+  "updated": "2026-10-26T05:13:52Z",
   "gameBuild": "42",
   "appVersion": "1.1.0",
   "appDownloadUrl": "https://github.com/gargenbargen/gargboid-manifest/raw/refs/heads/main/Gargboid-win-x64.zip",
+  "appLinuxDownloadUrl": "https://github.com/gargenbargen/gargboid-manifest/raw/refs/heads/main/Gargboid-linux-x64.zip",
   "mods": [
     {
       "modId": "ZombieBuddy",
@@ -1227,7 +1228,7 @@
       "modId": "KnoxMobile",
       "workshopId": "3818422092",
       "name": "Knox Mobile",
-      "timeUpdated": 1792833124
+      "timeUpdated": 1792990370
     },
     {
       "modId": "ViewpointBinoculars",
